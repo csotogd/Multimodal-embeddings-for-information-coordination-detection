@@ -3,3 +3,4 @@ wordcloud
 matplotlib
 nltk
 sklearn
+networkx
