@@ -2,8 +2,8 @@
 
 ## Fabio's branch
 On this branch, you'll find:
-- `merge_datasets.ipynb`: a notebook that attempts to merge the datasets together. (unused)
-- `fabio_eda.ipynb`: EDA notebook that also attempts to do topic extraction. You're probably looking for this notebook.
+- `merge_datasets.ipynb`: a notebook that attempts to merge the datasets together. (WIP)
+- `fabio_eda.ipynb`: EDA notebook that also attempts to do topic extraction. You're probably looking for this notebook. Also contains hand-written description of each dataset.
 - `eda_output`: folder containing the output of the EDA notebook.
 
 Python packages necessary to run the notebook can be found in `requirements.txt`. Let me know if I forgot any.
